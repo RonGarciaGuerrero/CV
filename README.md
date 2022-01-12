@@ -1,3 +1,4 @@
 # CV
 # Plantilla de CV obtenida en Super Folio – Bootstrap Portfolio Template
-# Para visualizar el CV descargar el repositorio y ejecutar el fichero index.html
+# Para visualizar el CV tambien se puede visitar este link: https://hades646.uber.space/ronald/
+
